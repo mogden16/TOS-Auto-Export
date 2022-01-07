@@ -100,8 +100,6 @@ extended_delay=how long you want to wait for your strategy to load & do calculat
 
 12. Location of Files of Type button (it will automatically say .csv)
 
-![Alt text](/img/exportfile.png)
-
 13. Location of Save strategy button
 
 ![Alt text](/img/savefile.png)
