@@ -91,7 +91,7 @@ extended_delay=how long you want to wait for your strategy to load & do calculat
 
 10. Location of the OK button on the settings
 
-![Alt text](/img/okbutton.png)
+![Alt text](/img/okaybutton.png)
 
 
 11. Location of Export file button
