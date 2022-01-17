@@ -122,8 +122,8 @@ class AutoExport:
 #             side = input("Any other side you want to see? Type DONE when finished")
 
         title = input("What would you like to title this study? ")
-            discord_title_push = {"content": "Starting study: " + str(title)}
-            response = requests.post((os.getenv('DISCORD_WEBHOOK')), json=discord_title_push)
+        discord_title_push = {"content": "Starting study: " + str(title)}
+        response = requests.post((os.getenv('DISCORD_WEBHOOK')), json=discord_title_push)
 
         self.working_tf.sort()
         print("BEGINNING AUTO EXPORTS....")
