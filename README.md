@@ -117,3 +117,4 @@ Add your webhook to your discord to have the results posted to there.  You might
 3. It will ask you what total timeframes you'll want to run and it will always go smallest to largest.
    1. ex. entering (3, enter, 2, enter, 1, enter, DONE, enter) will run 1/2/3
    2. Please don't enter anything else besides 1,2,3,or DONE
+4. It will then ask you for a title of the study (this will only affect your Discord notification to give you a start point for the dataframes you're about to collect. 
